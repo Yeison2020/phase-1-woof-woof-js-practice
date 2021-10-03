@@ -8,14 +8,14 @@
 
 #good-dog-filter {
   margin-top: 1vh;
-  width: 35vw;
+  width: 25vw;
   font-size: 1em;
-  height: 5vh;
+  height: 15vh;
   border-radius: 3em;
 }
 
 #dog-bar {
-  height: 15vh;
+  height: 25vh;
   background: skyblue;
   display: flex;
   justify-content: space-around;
